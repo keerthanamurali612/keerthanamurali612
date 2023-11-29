@@ -11,7 +11,8 @@
 
 
 
-- 🌱 I’m currently learning **Angular Framework**
+- 🌱I am presently expanding my skills in the **React.js Library** through dedicated learning and practical application
+
 - :zap: In my free time, I solve problems on Hackerrank, and Leetcode and read tech articles.
 
 - 📫 How to reach me **keerthanamurali099@gmail.com**
