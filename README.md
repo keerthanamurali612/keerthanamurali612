@@ -9,7 +9,7 @@
  :woman_technologist: About Me :
 <h3 align="left">A passionate frontend developer</h3>
 
-- 🌱 I’m currently learning **Angular Framework**
+- 🌱 I’m currently learning **Reactjs**
    
 - :zap: In my free time, I solve problems on Hackerrank, and Leetcode and read tech articles.
 
