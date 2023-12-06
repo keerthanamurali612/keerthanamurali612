@@ -5,8 +5,8 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keerthanamurali612&label=Profile%20views&color=0e75b6&style=flat" alt="keerthanamurali612" /> </p>
-About Me :
+
+<h3 align="left">About Me :</h3>
 <h3 align="left">A passionate frontend developer</h3>
 
 - 🌱 I’m currently learning **Reactjs**
