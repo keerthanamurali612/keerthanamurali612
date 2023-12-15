@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3> 
 
-- Feel free to connect with me or drop a message at **keerthana-murali-mk99**
+- Feel free to connect with me or drop a message at LinkedIn **keerthana-murali-mk99**
 
 
 <h3 align="left"> 🛠️Languages and Tools:</h3>
