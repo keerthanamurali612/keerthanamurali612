@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Reactjs**.
    
-- :zap: In my free time, I solve problems on Hackerrank, and Leetcode and read tech articles.
+- :zap: In my free time, I solve problems on Hackerrank and read tech articles.
 
 - 📫 How to reach me **keerthanamurali099@gmail.com**
 
