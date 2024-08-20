@@ -31,8 +31,6 @@
 - Angular
 - C/C++
 - React.js
-- Firebase
-- Postman
 - Git
 
 
