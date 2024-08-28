@@ -28,7 +28,6 @@
 - JavaScript
 - Python
 - Flask
-- Angular
 - C/C++
 - React.js
 - Git
