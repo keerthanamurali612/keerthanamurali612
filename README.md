@@ -10,7 +10,7 @@
 <h3 align="left">About Me :</h3>
 <h3 align="left">A passionate frontend developer</h3>
 
-- 🌱 I’m currently learning **Reactjs and Tailwind**.
+- 🌱 I’m currently learning **Reactjs**.
    
 - :zap: In my free time, I solve problems on Hackerrank and read tech articles.
 
